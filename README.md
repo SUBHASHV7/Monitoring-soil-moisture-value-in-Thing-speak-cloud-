@@ -84,8 +84,18 @@ Prototype and build IoT systems without setting up servers or developing web sof
 ![image](https://github.com/user-attachments/assets/5beaf86c-0d5d-4b99-9c22-bb0351f487ab)
 
 # PROGRAM:
+~~~
+Name: SUBHASH.V
+Reg. no: 24900587
+~~~
+![397959631-8edc42bc-07c1-4634-8de9-321fec40043a](https://github.com/user-attachments/assets/ed844345-d99c-420b-a066-c62e3b6b5e90)
+
 # CIRCUIT DIAGRAM:
+![397959658-1aeb8755-705d-4acb-8195-cd8ae64a4965](https://github.com/user-attachments/assets/3f9cd6a2-1f69-46cc-bbf2-5ced98be7101)
+
 # OUTPUT:
+![397959668-73432629-f369-4d79-9f92-211446f35b25](https://github.com/user-attachments/assets/13baf95c-990c-4016-9e79-c078b9a03d20)
+
 # RESULT:
 Thus the soil moisture values are updated in the Thing speak cloud using ESP32 controller.
 
